@@ -67,7 +67,7 @@ def gaussian_elemination(matrix):
     back_sub(matrix)
 
 
-first_eq = input(' Enter the first equatoin ')
+first_eq = input(' Enter the first equation ')
 second_eq = input(' Enter the second equation ')
 third_eq = input(' Enter the third equation ')
 matrix = [getVal(first_eq), getVal(second_eq), getVal(third_eq)]
