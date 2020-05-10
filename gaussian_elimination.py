@@ -76,5 +76,5 @@ gaussian_elemination(matrix)
 
 
 '''
-You can give input as a normal equations like ax + by + cz = d and the output will be the values of x,y,c.
+You can give input as a normal equations like ax + by + cz = d and the output will be the values of x,y,z.
 '''
