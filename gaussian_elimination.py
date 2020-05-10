@@ -50,9 +50,9 @@ def back_sub(matrix):
         for j in range(i+1, n):
             x[j] -= matrix[i][j] * x[j]
         x[i] = x[i] // matrix[i][i]
-    print("Therefor the value of x is ", x[0])
-    print("Therefor the value of y is ", x[1])
-    print("Therefor the value of z is ", x[2])
+    print("Therefore the value of x is ", x[0])
+    print("Therefore the value of y is ", x[1])
+    print("Therefore the value of z is ", x[2])
 
 
 def gaussian_elemination(matrix):
